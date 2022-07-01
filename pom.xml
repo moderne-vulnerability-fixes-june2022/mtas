@@ -447,7 +447,7 @@
 		<repository>
 			<id>maven-restlet</id>
 			<name>Public Online Restlet repository</name>
-			<url>http://maven.restlet.org</url>
+			<url>https://maven.restlet.org</url>
 		</repository>
 	</repositories>
 	<dependencies>
